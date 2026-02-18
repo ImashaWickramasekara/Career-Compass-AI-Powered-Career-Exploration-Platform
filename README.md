@@ -65,5 +65,6 @@ It provides personalized guidance based on user inputs, interactive assessments,
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/career-compass.git
+git clone https://github.com/ImashaWickramasekara/Career-Compass-AI-Powered-Career-Exploration-Platform.git
 cd career-compass
+
